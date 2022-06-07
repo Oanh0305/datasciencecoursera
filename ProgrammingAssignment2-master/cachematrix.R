@@ -1,5 +1,3 @@
-
-
 ## This function returns 4 functions needed to calculate cache
 
 makeCacheMatrix <- function(x = matrix()) {
